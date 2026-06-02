@@ -10,7 +10,7 @@ The scripts in this folder automate the collection of raw data from the original
 
 ```text
 load_data/
-├── load_hf.py
+├── load_hf.py        # Code used to load HF-radar data from MetNO online database
 ├── load_norkyst.py
 └── README.md
 ```
