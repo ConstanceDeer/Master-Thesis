@@ -11,7 +11,7 @@ The scripts in this folder automate the collection of raw data from the original
 ```text
 load_data/
 ├── load_hf.py        # Code used to load HF-radar data from MetNO online database
-├── load_norkyst.py
-├── load_swot.py
+├── load_norkyst.py   # Code used to load/process SWOT ADT, with three different ref planes.
+├── load_swot.py      # Code used to load/process SWOT ADT, with three different ref planes.
 └── README.md
 ```
