@@ -16,14 +16,9 @@ The purpose of this repository is to provide a reproducible implementation of th
 ## Repository Structure
 
 ```text
-├── data/               # Data files and preprocessing outputs
-├── notebooks/          # Exploratory analysis and visualizations
-├── src/                # Main source code
-├── experiments/        # Experiment configurations and scripts
-├── results/            # Generated results, figures, and tables
-├── models/             # Trained models (if applicable)
-├── docs/               # Additional documentation
-├── requirements.txt    # Python dependencies
+├── HF_vs_SWOT/            # All code for the HF-radar, SWOT and Norkyst intercomparison
+├── NORKYST_vs_SWOT/       # All code for the SWOT and Norkyst intercomparison
+├── QGBFN_model/           # All code for the 1.5 layer quasi-geostrofic model w. Back-and-Forward nuding data assimilation of SWOT
 └── README.md
 ```
 
