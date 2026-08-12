@@ -10,6 +10,7 @@ NORKYST_vs_SWOT/
 ├── Geoids_regrid.py            # Code used grid data onto same grid
 ├── make_files.py               # Code used to make comparison files between NK and SWOT (*.npz)
 ├── compare_files.py            # Code used make compariosn, both visually, dist2coast and spatial bin + plotting it
+├── visual_comparison.py        # Code used to plot swath by swath vidual comparison
 └── README.md
 ```
 
