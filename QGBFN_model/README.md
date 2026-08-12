@@ -16,8 +16,9 @@ QGBFN_model/
 ├── config_fullNO.py           # Configuration file for the QG model run, original file by Le Guillou et. al 2023
 ├── run.py                     # code used to run the mode, file by Jensen, 2025.
 ├── QGBFN_model/               # Folder with QG model result videos
-    ├── c0_contant.mp4 # video for c0 field
-    └── c0_0.6.mp4     # video with contant c0
+     ├── gif_eff.py      # code used to make the videos
+     ├── c0_contant.mp4  # video for c0 field
+     └── c0_0.6.mp4      # video with contant c0
 └── README.md  
 ```
 
