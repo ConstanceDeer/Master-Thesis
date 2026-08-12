@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code, data processing pipelines, and analysis scripts developed as part of the Master's Thesis:
+This repository contains the code developed as part of the Master's Thesis:
 
 **"[Thesis Title]"**
 *Constance Hjort*
