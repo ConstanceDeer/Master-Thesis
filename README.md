@@ -22,59 +22,17 @@ The purpose of this repository is to provide a reproducible implementation of th
 └── README.md
 ```
 
-## Reproducibility
-
-The experiments presented in the thesis can be reproduced by following the workflow:
-
-1. Prepare the dataset.
-2. Run the training/experiment scripts.
-3. Generate evaluation metrics.
-4. Recreate figures and tables.
-
-Specific experiment settings and hyperparameters are documented in the `experiments/` directory.
-
 ---
 
 ## Thesis Information
 
 **Title:** [Thesis Title]
 
-**Author:** [Your Name]
+**Author:** Constance Hjort
 
-**Supervisor(s):** [Supervisor Name]
+**Supervisor(s):** Ole B. Andersen, Bjarke Nilsson, and Sara N. Jensen
 
-**Institution:** [University Name]
+**Institution:** DTU SPACE
 
-**Submission Year:** [Year]
+**Submission Year:** 2026
 
----
-
-## Citation
-
-If you use this repository or build upon this work, please cite:
-
-```bibtex
-@mastersthesis{yourname202X,
-  title     = {Thesis Title},
-  author    = {Your Name},
-  school    = {University Name},
-  year      = {202X}
-}
-```
-
----
-
-## License
-
-Specify the license for this repository (e.g., MIT, Apache 2.0, or other).
-
----
-
-## Contact
-
-For questions regarding the thesis or repository, please contact:
-
-Constance Hjort
-
-```
-```
