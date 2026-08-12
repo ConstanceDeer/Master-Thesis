@@ -1,4 +1,4 @@
-# 1.5 layer Quasi-geostrofic model w. Back-andForward nuding data assimilation 
+# 1.5 layer Quasi-geostrofic model w. Back-and-Forward nuding data assimilation 
 
 This folder contains scripts used to make the QG model run. With how all files was made and the code finally run 
 
